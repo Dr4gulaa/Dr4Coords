@@ -1,0 +1,10 @@
+name: Dr4Coords
+main: com.Dr4gula.arrowplugin.Main
+version: 1.0
+author: SeuNome
+depend: [HolographicDisplays]
+description: Um plugin que guia jogadores para uma coordenada específica usando partículas.
+commands:
+  seta:
+    description: Cria uma seta de partículas para uma coordenada.
+    usage: /seta <x> <y> <z>
